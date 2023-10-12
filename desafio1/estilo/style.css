@@ -97,14 +97,14 @@ article strong{
     font-weight: bold;
 }
 article a{
-    background-color:chartreuse;
+    background-color:rgb(142, 201, 83);
     padding: 0.2px;
     color: blue;
 }
 article a:hover{
    text-decoration:underline;
-   color: brown; 
-   background-color: blueviolet;
+   color: rgb(202, 59, 59); 
+   background-color: rgb(215, 195, 234);
 }
 footer{
     text-align: center;

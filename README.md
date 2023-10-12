@@ -1,2 +1,2 @@
 # desafios
- estudando html e css
+ estudando html5 e css3
